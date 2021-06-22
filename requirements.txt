@@ -1,0 +1,10 @@
+urllib3
+timg
+questionary
+plumbum
+pyfiglet
+termcolor
+selenium
+webdriver-manager
+pytest
+pylint
